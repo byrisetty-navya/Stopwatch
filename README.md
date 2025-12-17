@@ -17,7 +17,6 @@ The application provides real-time time tracking with start, stop, reset, and la
 - **CSS** – Styling and layout design  
 - **JavaScript** – Logic and real-time functionality  
 
----
 
 ## ⚙️ How It Works
 - The stopwatch uses JavaScript’s `setInterval()` function to update time every second.
