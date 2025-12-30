@@ -4,7 +4,6 @@
 A simple and responsive **Stopwatch Web Application** built using **HTML, CSS, and JavaScript**.  
 The application provides real-time time tracking with start, stop, reset, and lap functionalities.
 
-
 ## 📌 Features
 - Start, Stop, and Reset stopwatch
 - Lap time recording
@@ -17,29 +16,22 @@ The application provides real-time time tracking with start, stop, reset, and la
 - **CSS** – Styling and layout design  
 - **JavaScript** – Logic and real-time functionality  
 
-
 ## ⚙️ How It Works
 - The stopwatch uses JavaScript’s `setInterval()` function to update time every second.
 - Time is tracked in hours, minutes, and seconds.
 - DOM manipulation is used to update the display dynamically.
 - `clearInterval()` is used to stop the timer when required.
 
----
-
 ## 📂 Project Structure
 stopwatch/
-│
 ├── index.html
 ├── style.css
 ├── script.js
-└── README.md
-
 
 ## 🚀 How to Run the Project
 1. Download or clone the repository  
 2. Open `index.html` in any modern web browser  
 3. Click **Start** to begin the stopwatch
-
 
 ## Here is the live demo
 
