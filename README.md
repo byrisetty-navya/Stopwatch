@@ -38,4 +38,9 @@ stopwatch/
 ## 🚀 How to Run the Project
 1. Download or clone the repository  
 2. Open `index.html` in any modern web browser  
-3. Click **Start** to begin the stopwatch  
+3. Click **Start** to begin the stopwatch
+
+
+## Here is the live demo
+
+https://drive.google.com/file/d/1O-lU70NwvvztkGSP43nS_tPpgSiSdgwI/view?usp=drive_link
